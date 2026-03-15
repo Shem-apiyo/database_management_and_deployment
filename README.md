@@ -389,15 +389,6 @@ This project was built as a hands-on learning experience covering:
 
 ---
 
-## Reports
-
-Two detailed PDF technical reports are included in the `/docs` folder:
-
-- **`neema_technical_report.pdf`** — Full-stack overview covering MySQL, Node.js, HTML, CSS and JavaScript concepts with code analysis
-- **`neema_mysql_reference.pdf`** — MySQL-only deep dive: all 12 tables, 6 views, 13 functions, 2 procedures, 4 user roles and bulk data strategy with EER diagram
-
----
-
 ## License
 
 This project is for educational purposes.
