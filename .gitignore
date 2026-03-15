@@ -1,0 +1,22 @@
+# Node.js .gitignore
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build outputs
+/dist/
+/build/
+
+# Debug logs
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
